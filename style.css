@@ -1,0 +1,35 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+section {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.card {
+  background-color: #f6f6ff;
+  margin-bottom: 20px;
+  border-radius: 0% !important;
+}
+.card img {
+  height: 300px;
+  width: 100%;
+  padding: 10px;
+  object-fit: contain;
+}
+.about-text {
+  font-size: 1.2rem;
+}
+.about-text strong {
+  font-size: 1.5rem;
+}
+.about-img {
+  width: 30%;
+}
+.blog > div {
+  display: flex;
+  align-items: center;
+}
+.btn {
+  border-radius: 0%;
+  margin: 2px;
+}
